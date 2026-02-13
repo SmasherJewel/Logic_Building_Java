@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /* Print all numbers from 1 to n using a loop. */
 
-public class Print_1toN {
+public class Q1_Print_1toN {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number: ");

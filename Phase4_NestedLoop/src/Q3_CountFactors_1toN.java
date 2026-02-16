@@ -14,8 +14,8 @@ public class Q3_CountFactors_1toN {
             return;
         }
 
-        if (n > 1000){
-            System.out.println("Range too large! Please enter number below 1000.");
+        if (n > 10000){
+            System.out.println("Range too large! Please enter number below 10000.");
             sc.close();
             return;
         }

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Phase1_WhileLoop/Phase1_WhileLoop.iml" filepath="$PROJECT_DIR$/Phase1_WhileLoop/Phase1_WhileLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Phase2_DoWhileLoop/Phase2_DoWhileLoop.iml" filepath="$PROJECT_DIR$/Phase2_DoWhileLoop/Phase2_DoWhileLoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/Phase3_ForLoop/Phase3_ForLoop.iml" filepath="$PROJECT_DIR$/Phase3_ForLoop/Phase3_ForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Phase4_NestedLoop/Phase4_NestedLoop.iml" filepath="$PROJECT_DIR$/Phase4_NestedLoop/Phase4_NestedLoop.iml" />
     </modules>
   </component>
 </project>

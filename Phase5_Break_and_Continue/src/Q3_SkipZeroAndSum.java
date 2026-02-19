@@ -8,6 +8,7 @@ public class Q3_SkipZeroAndSum {
         Scanner sc = new Scanner(System.in);
 
         int sum = 0;
+        int validCount = 0;
 
         System.out.println("Enter 5 numbers:");
 
@@ -18,8 +19,13 @@ public class Q3_SkipZeroAndSum {
                 continue;
             }
             sum += num;
+            validCount++;
         }
-        System.out.println("Sum of non-zero numbers: " + sum);
+        if (validCount == 0) {
+            System.out.println("All entered numbers were zero. No valid numbers to sum.");
+        } else {
+            System.out.println("Sum of non-zero numbers: " + sum);
+        }
         sc.close();
     }
 }

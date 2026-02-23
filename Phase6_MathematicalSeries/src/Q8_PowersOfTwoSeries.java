@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-/* Print series of powers of two: 1 + 2 + 4 + ... + 2^n */
+/* Print the series of powers of two: 1 + 2 + 4 + 8 + … + 2ⁿ. */
 
 public class Q8_PowersOfTwoSeries {
     public static void main(String[] args) {

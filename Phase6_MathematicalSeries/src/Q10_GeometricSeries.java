@@ -20,7 +20,7 @@ public class Q10_GeometricSeries {
         }
 
         double sum = 0;
-        double term = 1;   // x^0 = 1
+        double term = 1;
 
         for (int i = 0; i <= n; i++) {
             sum += term;

@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+/* Count Total numbers between 1 & 500 are divisible by 7 but not divisible by 5. */
+
 public class Q2_CountDivisible {
 
     public static void main(String[] args) {

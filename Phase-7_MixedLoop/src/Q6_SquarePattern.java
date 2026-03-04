@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+/* Print a pattern where the i-th row prints the value i × i. */
+
 public class Q6_SquarePattern {
 
     public static void main(String[] args) {

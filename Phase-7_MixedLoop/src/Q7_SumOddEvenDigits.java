@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+/* Find & print the sum of odd digits & the sum of even digits of the given number. */
+
 public class Q7_SumOddEvenDigits {
 
     public static void main(String[] args) {

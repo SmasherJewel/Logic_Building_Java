@@ -9,7 +9,7 @@ public class Q5_Printing_MultiplicationTable {
         int num = Math.abs(sc.nextInt());
 
         if (num == 0){
-            System.out.println("Enter a number than Zero");
+            System.out.println("Enter a number greater than Zero");
             return;
         }
 

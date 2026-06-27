@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Q5_Printing_MultiplicationTable {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter a to Print Multiplication of a Table: ");
+        System.out.println("Enter a No to Print Multiplication of a Table: ");
         int num = Math.abs(sc.nextInt());
 
         if (num == 0){
